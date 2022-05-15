@@ -2,8 +2,8 @@
 
 [![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hallyson-robson-19265ab8)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hallysonrobson)<br/>
-[![Hallyson GitHub stats](https://github-readme-stats.vercel.app/api?username=HAllysonR&show_icons=true&theme=radical)](https://github.com/HAllysonR)<br/>
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HAllysonR&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Hallyson GitHub stats](https://github-readme-stats.vercel.app/api?username=HAllysonR&show_icons=true&theme=radical)](https://github.com/HAllysonR)
+
 
 ## Tecnologias que eu tenho conhecimento
 <div style="display: inline-block"><br/>
